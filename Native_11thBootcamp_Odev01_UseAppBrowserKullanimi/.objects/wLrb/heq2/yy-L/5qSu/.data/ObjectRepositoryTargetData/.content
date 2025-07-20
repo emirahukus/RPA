@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iplR1xqsv0Swg8m22wefLw" Reference="cnQ87pETgEGohSS31hOghA/5qSuopdxvk6EKOQpYj3-jg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/feed/subscriptions" CVScreenId="81a34411-e40e-4d92-bd96-9762303e719a" CvTextArea="982, 646, 572, 26" CvTextArgument="Resolve invoice discrepancies with AI powered reasoning" CvType="Text" DesignTimeRectangle="984, 645, 570, 27" FullSelectorArgument="&lt;webctrl aria-label='Resolve invoice discrepancies with AI powered reasoning 5 dakika 35 saniye' tag='YT-FORMATTED-STRING' /&gt;" Guid="1ccb571d-eb26-4621-a4df-13a39ab8c8bd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='uipath - YouTube' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="a23d059f1c1524c72f052f60f5ccdb8d.png" xmlns="">0nx0fL_q3N0C7uOtpa2JnHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

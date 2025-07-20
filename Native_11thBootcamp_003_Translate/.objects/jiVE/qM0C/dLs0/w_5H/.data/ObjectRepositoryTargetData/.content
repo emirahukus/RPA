@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="US-G2r061UOCpQc0mdNnSQ" Reference="1wx7iPsghUSsFZ3dCu3BgA/w_5HslCLs0-99GBhrYG14g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="translate.google.com" CVScreenId="2b886a58-f785-457b-a6c3-35b07e15c6b0" CvElementArea="154, 445, 799, 213" CvType="InputBox" DesignTimeRectangle="180, 466, 709, 40" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl tag='TEXTAREA' type='' class='er8xn' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d4b529bd-8ba6-46bf-9382-471787e2489a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Çeviri' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2b886a58-f785-457b-a6c3-35b07e15c6b0" CvElementArea="154, 445, 799, 213" CvType="InputBox" DesignTimeRectangle="808, 607, 59, 33" FuzzySelectorArgument="&lt;webctrl aria-role='img' tag='SPAN' type='' class='ZTPlmc' aaname=' / 5.000' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='0 / 5.000' /&gt;" Guid="41bd3acd-a487-4ac3-9f23-88949587ecae" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e2f42cd987a35491953daa4afd48bf03.png" xmlns="">0cS2VlbKCv0ercBUngfEFFA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

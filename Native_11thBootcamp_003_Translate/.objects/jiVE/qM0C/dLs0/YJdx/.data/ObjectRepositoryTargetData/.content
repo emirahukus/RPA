@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="x76wjE5JxEivT4MBPTvLfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="translate.google.com" CVScreenId="9bbe3f3c-5841-4fa5-9858-dbedd3236666" CvType="AnyWordGroup" DesignTimeRectangle="985, 466, 75, 37" ElementType="Text" FullSelectorArgument="&lt;webctrl class='ryNqvb' tag='SPAN' /&gt;" Guid="287733a9-1fb7-45db-be9f-88e7e85b7007" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Çeviri' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9bbe3f3c-5841-4fa5-9858-dbedd3236666" CvTextArea="1007, 409, 58, 22" CvTextArgument="Türkçe" CvType="Text" DesignTimeRectangle="1010, 390, 55, 60" FuzzySelectorArgument="&lt;webctrl parentid='i15' tag='SPAN' type='' class='VfPpkd-N5Lhkf' aaname='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Türkçe' /&gt;" Guid="73a82387-0c1b-46f0-b2aa-9c32027e519b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7ed3a39ff8387899e5b6931f6a1b8838.png" xmlns="">0Vj1OLxCZqEajMlylub2qJQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

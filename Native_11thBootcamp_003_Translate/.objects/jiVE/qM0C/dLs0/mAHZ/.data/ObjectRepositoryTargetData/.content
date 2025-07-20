@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HqKEBlVlyUy0wc9F0fWcAA" Reference="1wx7iPsghUSsFZ3dCu3BgA/mAHZdsjHekGri0qFUCOJLw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="translate.google.com" CVScreenId="bc613383-ea71-454f-b426-ef2dc36f83da" CvTextArea="805, 549, 62, 15" CvTextArgument="0 / 5.000" CvType="Text" DesignTimeRectangle="160, 385, 795, 207" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;c-wiz&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;c-wiz' tag='C-WIZ' /&gt;" Guid="ceb17572-8ef7-4e22-a2e4-78085177adda" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Çeviri' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="6b7b1ab10d99652b3a04c87b38545cb8.png" xmlns="">0qE6twiHGKUOVucvJV9eJPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

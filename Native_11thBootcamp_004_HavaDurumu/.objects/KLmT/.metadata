@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Browser",
+  "Type": "App",
+  "Id": "KLmTO_ScXE2d_C_jXjS1IQ",
+  "Reference": "ySpP0jR3Nke3YTEgB5hdnw/KLmTO_ScXE2d_C_jXjS1IQ",
+  "Created": "2025-07-21T13:11:54.383078Z",
+  "Updated": "2025-07-21T13:11:54.383078Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

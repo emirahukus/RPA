@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oa_wo5PyMEOXzt3vflfZ0Q" Reference="ySpP0jR3Nke3YTEgB5hdnw/G4bEozpjUUGhYLfRbcUG-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="1828b17b-7e71-40a1-8dcb-daf607f7f118" CvType="AnyWordGroup" DesignTimeRectangle="353, 501, 64, 75" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" Guid="f415b1eb-49df-44ec-a70b-d0fa35afa619" ScopeSelectorArgument="&lt;html app='chrome.exe' title='hava durumu bilecik - Google&amp;apos;da Ara' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="1828b17b-7e71-40a1-8dcb-daf607f7f118" DesignTimeRectangle="673, 504, 408, 33" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_loc' tag='DIV' /&gt;" Guid="aaa3057f-60ea-4942-b0fd-47be1199ef0d" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1a0c67e47569836da5e5f78ecd0f2fb7.png" xmlns="">0yXZiqsJ_5EaM7ZKwiOVDyg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

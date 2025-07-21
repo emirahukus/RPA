@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Hava durumu",
+  "Type": "Element",
+  "Id": "G4bEozpjUUGhYLfRbcUG-w",
+  "Reference": "ySpP0jR3Nke3YTEgB5hdnw/G4bEozpjUUGhYLfRbcUG-w",
+  "ParentRef": "ySpP0jR3Nke3YTEgB5hdnw/579tKoyfVkieP4UUevKpew",
+  "Created": "2025-07-21T13:23:15.9047818Z",
+  "Updated": "2025-07-21T13:23:15.9047818Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
